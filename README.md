@@ -1,9 +1,12 @@
 
-![Full-Stack Web Developer](https://scontent.flko9-1.fna.fbcdn.net/v/t39.30808-6/292229446_769741190696912_620869551009978070_n.jpg?stp=cp0_dst-jpg_e15_q65_s600x600&_nc_cat=107&ccb=1-7&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_ohc=qPgRYGSPcXkAX-ttKAz&_nc_ht=scontent.flko9-1.fna&oh=00_AT91THCIepVuiHBXiEODGGGKhEL6WpxXwcwUAFQd2WoshA&oe=62D0D7B2)
-<img align="left" height="200px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />
-- 🔭 I’m currently working on this page. 
-<h1>Hi 👋, I'm Er. Jitendra Sharma</h1>
-<h4>I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code. I started my coding journey with JAVA programming language and learned how the basics of programing work. I have completed my B.Tech with specialization in Computer Science. Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development. My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.</h4>
+![Full-Stack Web Developer](https://scontent.flko9-1.fna.fbcdn.net/v/t39.30808-6/292997865_769754710695560_8075362567315750813_n.jpg?stp=cp0_dst-jpg_e15_q65_s843x403&_nc_cat=105&ccb=1-7&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_ohc=7z2prhLcynkAX_mH_0M&_nc_ht=scontent.flko9-1.fna&oh=00_AT-3Q1pZR1fBlRcrzg66-ZSAMMgYmt9320OFL7rBL38s8A&oe=62D26C7C)
+# Hi there 👋, my name is Jitendra Sharma
+### Full-Stack Web Developer
+
+
+<img border-radius="10px" align="right" height="220px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />
+
+<p>  &nbsp;&nbsp;&nbsp;&nbsp;  I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code. I started my coding journey with JAVA programming language and learned how the basics of programing work. I have completed my B.Tech with specialization in Computer Science. Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development. My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmacs8853&label=Profile%20views&color=0e75b6&style=flat" alt="sharmacs8853" /> </p>
 
