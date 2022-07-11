@@ -1,6 +1,6 @@
 <img height="300px" width="100%" src="https://drive.google.com/file/d/1HGv2VWPcXYiUJySz6_CVEEq5iH8fXGTr/view?usp=sharing" alt="Jitendra sharma" />
 <h1 align="center">Hi 👋, I'm Er. Jitendra Sharma</h1>
-<h4 align="center">I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code. I started my coding journey with JAVA programming language and learned how the basics of programing work. I have completed my B.Tech with specialization in Computer Science. Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development. My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.</h4>
+<h4>I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code. I started my coding journey with JAVA programming language and learned how the basics of programing work. I have completed my B.Tech with specialization in Computer Science. Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development. My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmacs8853&label=Profile%20views&color=0e75b6&style=flat" alt="sharmacs8853" /> </p>
 
