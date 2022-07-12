@@ -1,5 +1,5 @@
 
-![Full-Stack Web Developer](https://scontent.flko9-1.fna.fbcdn.net/v/t39.30808-6/292997865_769754710695560_8075362567315750813_n.jpg?stp=cp0_dst-jpg_e15_q65_s843x403&_nc_cat=105&ccb=1-7&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_ohc=7z2prhLcynkAX_mH_0M&_nc_ht=scontent.flko9-1.fna&oh=00_AT-3Q1pZR1fBlRcrzg66-ZSAMMgYmt9320OFL7rBL38s8A&oe=62D26C7C)
+
 # Hi there 👋, my name is Jitendra Sharma
 ### Full-Stack Web Developer
 
