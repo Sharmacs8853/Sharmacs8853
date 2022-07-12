@@ -1,7 +1,7 @@
 
 <img width="100%" height="400px" align="center" src="https://lh3.googleusercontent.com/mQ6D7mTkV-FTeB07hJPEr0llHz2kSXNPlQHsy6d2CqeB5fiE5wzjPQSLNydZ48Pj5OMBJauhax6hPeaIiWAS2WDYQ0YZRBl4lwgnif1F-cJKeDBzRyuV_H1KQmTri-2MQEyXsm6qpYtQk2EA3GUcXg55k8jepq-TstI7x-3OXL9c_74tbbyn4BWRDgM7PdzyPuDLO_vdYB48E1KiIgMSH8E3z6OGekMc3Hd5O8leNQEnOHSXc0e_QR4JSelqwFVM1GBpfPel75aEKHV7bVHxI4NXrLqI4UPq8QRslIcXljDQlqic50wZIfvZH-R6vF_JP81fLr9BKkmuWwzfweSnuVRTumMQqOGjVeHvPmbsiaLG6HO3R9qHtBFGuRVum8QoLk4bMvXJbwbggrRzSlLCqcrwOe_yLmPh_u9F03JZd-jrkk3uTHl-YZl6CsZAWWRuMWB8CCvNeOHcSGyBNY89z-35TF6bkeIBrZHYbG72PIUFCr20TdHx61SM_tuwEgkcs0RKJCL8C1Ad8fuEBpG40U51Ta_7dwL0ET3JZ91x6urujxIasurLojOJt51zVgYCoFh3rhy73l4se5cyaWpE2Bwf7QWLJGMs__ywxV6hpLfZ80ha-6377IJRxbBsKVACPs8couBJu1vc0Xcuebbs-FQP_2zlehQP2AVu-ZAr__eKB6RpE8RlL2_im5LMA_z1qwBpWIpFjKhso1iV7DyxLb_jfzkhMIV9S-vsk1GXTm_kPqnJL70NNoZu5kaoaQ=w391-h220-no?authuser=0" />
-# Hi there 👋, my name is Jitendra Sharma
-### Full-Stack Web Developer
+<h1>Hi 👋, my name is Jitendra Sharma</h2>
+ <b>Full-Stack Web Developer</b>
 
 
 <img border-radius="10px" align="right" height="220px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />
