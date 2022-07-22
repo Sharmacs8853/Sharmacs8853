@@ -5,7 +5,7 @@
 
 
 <img border-radius="10px" align="right" height="220px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />
-<h5>  &nbsp;&nbsp;&nbsp;&nbsp;  I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code. I started my coding journey with C and C++ programming language and learned how the basics of programing work. I have completed my Diploma with specialization in Computer Science. Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development. My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.</h5>
+<h4>  &nbsp;&nbsp;&nbsp;&nbsp;  I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code. I started my coding journey with C and C++ programming language and learned how the basics of programing work. I have completed my Diploma with specialization in Computer Science. Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development. My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmacs8853&label=Profile%20views&color=0e75b6&style=flat" alt="sharmacs8853" /> </p>
 
