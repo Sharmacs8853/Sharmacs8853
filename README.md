@@ -1,11 +1,11 @@
 
 <img width="100%" height="300px" align="center" src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif" />
 <h1>Hi 👋, my name is Jitendra Sharma</h2>
- <b>Full-Stack Web Developer</b>
+ <b font-size='50px'>Full-Stack Web Developer</b>
 
 
 <img border-radius="10px" align="right" height="220px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />
-<p>  &nbsp;&nbsp;&nbsp;&nbsp;  I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code. I started my coding journey with C and C++ programming language and learned how the basics of programing work. I have completed my Diploma with specialization in Computer Science. Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development. My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.</p>
+<h5>  &nbsp;&nbsp;&nbsp;&nbsp;  I really enjoy coding. I have always been fascinated with how the complex real world problems can be solved by writing few lines of code. I started my coding journey with C and C++ programming language and learned how the basics of programing work. I have completed my Diploma with specialization in Computer Science. Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development. My specialties include JavaScript, HTML, CSS, React, EpressJs, MongoDB Data structures & Algorithm.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmacs8853&label=Profile%20views&color=0e75b6&style=flat" alt="sharmacs8853" /> </p>
 
