@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmacs8853&show_icons=true&locale=en" alt="sharmacs8853" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmacs8853&" alt="sharmacs8853" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmacs8853&bg_color=0D1117&color=5BCDEC" alt="sharmacs8853" /></p>
 
 <a href="https://github.com/Sharmacs8853/github-readme-activity-graph"><img alt="Jitendra sharma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sharmacs8853&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
